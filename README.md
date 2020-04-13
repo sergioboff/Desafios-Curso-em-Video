@@ -6,16 +6,16 @@ Estamos finalizando o mundo 3, relacionado a iteração utilizando *For* e *Whil
 ###
 Para **negrito** com *italico* devemos utilizar o __*Underscore*__ com asteristico.
 
-#Para listas
-##Utilização de listas e paragrafos
-Lista Numerada
+# Para listas
+## Utilização de listas e paragrafos
+### Lista Numerada
 1. Teste
 2. Teste
-   1.Teste2
-   2.Testes3
+   1. Teste
+   2. Testes
 3. Teste
 
-Lista demarcada:
+### Lista demarcada:
 
 * Item 1
 * Item 2
@@ -23,13 +23,13 @@ Lista demarcada:
 
 Lista de tarefas :
 
-[] Fazer compras
-[x] Lavar a Louça
-[] Comprar itens no e-commerce
+- [ ] Fazer compras
+- [x] Lavar a Louça
+- [ ] Comprar itens no e-commerce
 
 [Accessando meu Github](https://sergioboff.github.io)
 
-#Montando tabelas :
+### Montando tabelas :
 
 Nome | Nota | Escola
 ---|---|---|
