@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47d4b2d-a1af-4318-ac82-631f30f6654c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio55.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       <recent name="C:\Users\sergi\Documents\Desafios Curso em Video" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio54">
+  <component name="RunManager" selected="Python.Desafio55">
     <configuration name="Desafio51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Desafios Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Desafios Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio55.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio55" />
         <item itemvalue="Python.Desafio54" />
         <item itemvalue="Python.Desafio53" />
         <item itemvalue="Python.Desafio51" />
         <item itemvalue="Python.Desafio52" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586962365554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Contagem de pessoas com maior idade através do ano de nascimento.">
+      <created>1586968583849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586968583849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -201,9 +208,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#Numeros Primos" />
     <MESSAGE value="#Palindromos" />
-    <option name="LAST_COMMIT_MESSAGE" value="#Palindromos" />
+    <MESSAGE value="Contagem de pessoas com maior idade através do ano de nascimento." />
+    <option name="LAST_COMMIT_MESSAGE" value="Contagem de pessoas com maior idade através do ano de nascimento." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586970088076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586970088076" />
     <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586968582576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,22 +224,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1586958808193" />
-    <state width="1345" height="346" key="GridCell.Tab.0.bottom" timestamp="1586968507526">
+    <state width="1345" height="346" key="GridCell.Tab.0.bottom" timestamp="1586970705208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586968507526" />
-    <state width="1345" height="346" key="GridCell.Tab.0.center" timestamp="1586968507526">
+    <state width="1345" height="346" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586970705208" />
+    <state width="1345" height="346" key="GridCell.Tab.0.center" timestamp="1586970705207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586968507526" />
-    <state width="1345" height="346" key="GridCell.Tab.0.left" timestamp="1586968507526">
+    <state width="1345" height="346" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586970705207" />
+    <state width="1345" height="346" key="GridCell.Tab.0.left" timestamp="1586970705207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586968507526" />
-    <state width="1345" height="346" key="GridCell.Tab.0.right" timestamp="1586968507526">
+    <state width="1345" height="346" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586970705207" />
+    <state width="1345" height="346" key="GridCell.Tab.0.right" timestamp="1586970705208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586968507526" />
+    <state width="1345" height="346" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586970705208" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1586355310774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
