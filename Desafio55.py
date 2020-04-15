@@ -1,4 +1,3 @@
-import math
 peso = []
 for i in range (1, 6):
     x = float(input('Digite o peso da {}º pessoa : '.format(i)))
