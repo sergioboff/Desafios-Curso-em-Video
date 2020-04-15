@@ -175,10 +175,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="#Numeros Primos" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586958602922">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586958780206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586958602922" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586958780206" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1586958808193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1586958808193" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586958608659">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
